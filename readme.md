@@ -1,0 +1,5 @@
+This will be mine first assignment from The Odin Project, I will try to rewrite a google search result template. More info coming soon... 
+It took me a while to understand everything, turns out doing excersises and making an actual page is completely different. I decided to style it with a mix of CSS Flex and CSS Grid. 
+TOP is advising to write something about skills that were demonstrated by me here, so here is the description: I copied the reset default browser settings css file, made a separate css style file and attached it to the html file. I chose different selectors to style the html file, made some pseudo-classes. I made a flex display for the navigation bar as well as for the footer and i styled it properly to match the original page. In the center i decided to create a grid, so that when the size of the browser is being changed the "google search" is still in the middle. I think that is all I can think of. (Once again this is my first assignment, and my first project ever in html/css. ) 
+			Cheers 
+			Patryk studzin-sky
